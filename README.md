@@ -92,4 +92,4 @@ In order to have a copy of the project up and running locally, you will need to 
 - AWS Redshift
 
 ## Authors
-- Jonathan Kamau - [Github Profile](https://github.com/jonathankamau)
+- Mihir Chavan - [Github Profile](https://github.com/17mihir)
